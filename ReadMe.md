@@ -1,6 +1,5 @@
 # 💫 About Me:
-Sou estudante de Ciências da Computação<br>Estou fazendo uma especialização em Python com ênfase em IA<br>Trabalho com Radiologia no momento<br>
-
+Sou estudante de Ciências da Computação<br>Estou fazendo uma especialização em Python com ênfase em IA<br>T
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
